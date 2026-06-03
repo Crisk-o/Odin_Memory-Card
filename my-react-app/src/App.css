@@ -1,0 +1,45 @@
+ 	/* Palette
+  #cdacd2 	(205,172,210)
+	#a65fb5 	(166,95,181)
+	#714eaf 	(113,78,175)
+	#59357a 	(89,53,122)
+	#241a3e 	(36,26,62) */
+.audiowide-regular {
+  font-family: "Audiowide", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+body {
+  background: linear-gradient(#59357a , #241a3e);
+  font-family: 'Audiowide', 'Handel Gothic', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+  color: #efb82a;
+  font-family:  'Audiowide','Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.cards-grid-container{
+  padding: 10px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+  grid-template-rows: 33% 33% 33%;
+  gap: 50px;
+  column-gap: 25px;
+}
+.card{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  max-height: 200px;
+  width: auto;
+  border: 5px solid #59357a;
+  border-radius: 10px;
+  color: black;
+  background-color: #cdacd2;
+}
+.card:hover{
+  cursor: pointer;
+  outline: 5px solid #a65fb5;
+}
