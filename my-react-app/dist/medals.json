@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "Killing Spree",
+    "description": "Kill 5 enemies in a row without dying.",
+    "image": "/images/Killing_Spree_Medal.webp"
+  },
+  {
+    "id": 2,
+    "name": "Killing Frenzy",
+    "description": "Kill 10 enemies in a row without dying.",
+    "image": "/images/Killing_Frenzy_Medal.webp"
+  },
+  {
+    "id": 3,
+    "name": "Running Riot",
+    "description": "Kill 15 enemies in a row without dying.",
+    "image": "/images/Running_Riot_Medal.webp"
+  },
+  {
+    "id": 4,
+    "name": "Rampage",
+    "description": "Kill 20 enemies in a row without dying.",
+    "image": "/images/Rampage_Medal.webp"
+  },
+ {
+    "id": 5,
+    "name": "Untouchable",
+    "description": "Kill 25 enemies in a row without dying.",
+    "image": "/images/Untouchable_Medal.webp"
+  },
+  {
+    "id": 6,
+    "name": "Invincible",
+    "description": "Kill 30 enemies in a row without dying.",
+    "image": "/images/Invincible_Medal.webp"
+  },
+  {
+    "id": 7,
+    "name": "Perfection",
+    "description": "Win a slayer game with 15+ kills without dying.",
+    "image": "/images/Perfection.webp"
+  },
+  {
+    "id": 8,
+    "name": "Double Kill",
+    "description": "Kill 2 opponents within 4 seconds of each other.",
+    "image": "/images/Doublekill_Medal.webp"
+  },
+  {
+    "id": 9,
+    "name": "Triple Kill",
+    "description": "Kill 3 opponents within 4 seconds of each other.",
+    "image": "/images/Triplekill_Medal.webp"
+  },
+  {
+    "id": 10,
+    "name": "Overkill",
+    "description": "Kill 4 opponents within 4 seconds of each other.",
+    "image": "/images/Overkill_Medal.svg"
+  },
+  {
+    "id": 11,
+    "name": "Killtacular",
+    "description": "Kill 5 opponents within 4 seconds of each other.",
+    "image": "/images/Killtacular_Medal.webp"
+  },
+  {
+    "id": 12,
+    "name": "Killtrocity",
+    "description": "Kill 6 opponents within 4 seconds of each other.",
+    "image": "/images/Killtrocity_Medal.webp"
+  },
+  {
+    "id": 13,
+    "name": "Killimanjaro",
+    "description": "Kill 7 opponents within 4 seconds of each other.",
+    "image": "/images/Killimanjaro_Medal.webp"
+  },
+  {
+    "id": 14,
+    "name": "Killtastrophe",
+    "description": "Kill 8 opponents within 4 seconds of each other.",
+    "image": "/images/Killtastrophe_Medal.webp"
+  },
+  {
+    "id": 15,
+    "name": "Killpocalypse",
+    "description": "Kill 9 opponents within 4 seconds of each other.",
+    "image": "/images/Killpocalypse_Medal.webp"
+  },
+  {
+    "id": 16,
+    "name": "Killionaire",
+    "description": "Kill 10 opponents within 4 seconds of each other.",
+    "image": "/images/Killionaire_Medal.webp"
+  },
+  {
+    "id": 17,
+    "name": "Splatter",
+    "description": "Hit and kill an opponent with a vehicle.",
+    "image": "/images/Splatter_Medal.webp"
+  },
+  {
+    "id": 18,
+    "name": "Assassin",
+    "description": "Hit and kill an opponent with a melee attack from behind.",
+    "image": "/images/Assassin_Medal.webp"
+  },
+  {
+    "id": 19,
+    "name": "Extermination",
+    "description": "Wipe out an enemy team with at least an overkill.",
+    "image": "/images/Extermination_Medal.webp"
+  }, 
+  {
+    "id": 20,
+    "name": "Beat Down",
+    "description": "Hit and kill an opponent with a melee attack.",
+    "image": "/images/BeatDown_Medal.webp"
+  }, 
+  {
+    "id": 21,
+    "name": "Stick It",
+    "description": "Kill an opponent by sticking them with either a Plasma grenade or a Spike grenade.",
+    "image": "/images/Stick_It_Medal.webp"
+  }, 
+  {
+    "id": 22,
+    "name": "Killjoy",
+    "description": "End an opponent's killing spree—any spree.",
+    "image": "/images/Killjoy_Medal.webp"
+  }
+]
