@@ -51,7 +51,7 @@ function App() {
     .then((data) => {setMedals(data);}) // Processing/Storing Data. 'data' variable is cleanly parsed array of medals that came from medals.json file.
     // passes data into shuffleCards method to return a shuffled array of data. Cards would load in same order if left out.
     // use setMedals(...) to update comp. state. React re-renders screen w/ shuffled medals.
-    .catch((err) => console.error("Erorr loading medals:", err)); // safety net in case fetch fails.
+    .catch((err) => console.error("Error loading medals:", err)); // safety net in case fetch fails.
   }, []);
 
 
